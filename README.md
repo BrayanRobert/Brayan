@@ -1,4 +1,4 @@
-<h1 align="center" >Olá!! Eu sou Brayan Robert <3 👋</h1>
+<h1 align="center" >Olá!! Eu sou Brayan Robert</h1>
 <h3 align="center"> Desenvolvedor Junior</h3>
 
 <h3 align="left">Citação favorita:</h3>
